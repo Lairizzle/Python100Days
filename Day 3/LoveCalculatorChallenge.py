@@ -1,7 +1,7 @@
 #=================================================
 #Name: Love Calculator Challenge
 #Author: Keith Henderson - keith.donaldh@gmail.com
-#Date: 2022-01-07
+#Date: 2022-01-08
 #=================================================
 
 print("Welcome to the love calculator!")

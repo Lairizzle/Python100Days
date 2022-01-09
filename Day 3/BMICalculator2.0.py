@@ -1,7 +1,7 @@
 #=================================================
 #Name: BMI Calculator 2.0
 #Author: Keith Henderson - keith.donaldh@gmail.com
-#Date: 2022-01-07
+#Date: 2022-01-08
 #=================================================
 
 height = input("Enter your height in meters: ")
