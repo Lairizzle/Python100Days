@@ -1,4 +1,9 @@
-#Mathematical Operators in Python
+#=================================================
+#Name: Mathematical Operators in Python
+#Author: Keith Henderson - keith.donaldh@gmail.com
+#Date: 2022-01-07
+#=================================================
+
 #Remeber that order of operations is PEMDAS
 #Parenthesis, Exponenents, Multiplication, Division, Addition, Subtraction
 #()

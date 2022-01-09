@@ -1,3 +1,9 @@
+#=================================================
+#Name: Number Manipulation and F Strings
+#Author: Keith Henderson - keith.donaldh@gmail.com
+#Date: 2022-01-07
+#=================================================
+
 #Rounding round(<calculation>, <number of decimals>)
 print(round(8/3, 2))
 print(round(8/3, 3))

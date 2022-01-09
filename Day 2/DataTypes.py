@@ -1,4 +1,9 @@
-#Data Types
+#=================================================
+#Name: Data Types
+#Author: Keith Henderson - keith.donaldh@gmail.com
+#Date: 2022-01-07
+#=================================================
+
 #Strings, Integers, Floats and Bools
 
 print("Demo of Data Types")

@@ -1,4 +1,9 @@
-#Weeks in your life challenge
+#=================================================
+#Name: Weeks in your life challenge
+#Author: Keith Henderson - keith.donaldh@gmail.com
+#Date: 2022-01-07
+#=================================================
+
 age = input("What is your age?: ")
 
 #Calculate days, weeks and months left.

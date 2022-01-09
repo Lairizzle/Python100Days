@@ -1,4 +1,9 @@
-#Tip Calculator Project
+#=================================================
+#Name: Tip Calculator Project
+#Author: Keith Henderson - keith.donaldh@gmail.com
+#Date: 2022-01-07
+#=================================================
+
 print("Welcome to the tip calculator")
 totalBill = input("What was the total bill?: ")
 percentageTip = input("What percentage tip would you like to give? 10, 12, or 15?: ")

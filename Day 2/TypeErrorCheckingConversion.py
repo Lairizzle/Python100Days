@@ -1,3 +1,9 @@
+#=================================================
+#Name: Type Error Checking and Conversions
+#Author: Keith Henderson - keith.donaldh@gmail.com
+#Date: 2022-01-07
+#=================================================
+
 #Example variables
 name = "Keith"
 number = 8
